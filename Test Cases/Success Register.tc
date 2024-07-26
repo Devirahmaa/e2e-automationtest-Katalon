@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Register</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0721bbe-3eb6-4a0b-b368-bc09e699ae6d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2ec6cb4-e5e8-47ea-8944-18834a61879c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'toko devi 2\r\n'</defaultValue>
+      <description></description>
+      <id>f2ec6cb4-e5e8-47ea-8944-18834a61879c</id>
+      <masked>false</masked>
+      <name>nama_toko</name>
+   </variable>
+</TestCaseEntity>
