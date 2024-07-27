@@ -29,5 +29,5 @@ WebUI.setText(findTestObject('Object Repository/Register/input_email_email'), 't
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Register/input_password_password'), '5xx1bkCcAlw=')
 
-WebUI.click(findTestObject('Object Repository/Register/button_daftar'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Register/button_daftar'))
 
